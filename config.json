@@ -1,6 +1,6 @@
 {
   "delay": 120000,
   "networkAd": "Admob",
-  "adStatus": true,
+  "adStatus": false,
   "name": "choukri"
 }
