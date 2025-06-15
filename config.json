@@ -1,6 +1,6 @@
 {
   "delay": 120000,
   "networkAd": "Admob",
-  "adStatus": false,
+  "adStatus": true,
   "name": "yep"
 }
