@@ -1,6 +1,8 @@
 {
-  "delay": 120000,
+  "delay":  140000,
   "networkAd": "Admob",
   "adStatus": true,
-  "name": "yep"
+  "name": "",
+  "bannerUnitAD": "ca-app-pub-3940256099942544/6300978111",
+  "interstitialUnitAd": "ca-app-pub-3940256099942544/1033173712"
 }
